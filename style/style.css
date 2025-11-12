@@ -80,6 +80,7 @@ nav{
     padding: 80px 50px;
     padding-left: 30px;
     padding-right: 30px;
+
     
     
 
@@ -100,6 +101,7 @@ nav{
     align-items: center;
     text-align: center;
     justify-content: space-around;
+    margin-bottom: 20px;
 }
 
 
@@ -110,6 +112,8 @@ nav{
     
     background:#7c78f5;
     border-radius: 10px;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
 }
 
 
@@ -124,6 +128,54 @@ nav{
     color: #000000;
     font-size: 20px;
     
+}
+
+/* review section */
+
+.review{
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+    column-gap: 10px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.hdp{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 45px;
+    font-weight: bold;
+
+}
+
+.reviewcol1{
+    background-color: whitesmoke;
+    padding: 24px;
+    margin: 24px;
+    border-radius: 10px;
+    
+
+}
+
+
+.rhd{
+    margin-top: 12px;
+}
+.rvwp{
+    margin-top: 9px;
+    margin-bottom: 24px;
+}
+
+
+.imgfelx{
+    display: flex;
+    column-gap: 10px;
+    
+}
+
+.imgfelx img{
+    border-radius: 50%;
 }
 
 
@@ -148,6 +200,7 @@ nav{
 
 
 }
+
 
 
 
