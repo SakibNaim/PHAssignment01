@@ -43,6 +43,88 @@ nav{
 }
 
 
+/* main */
+
+.hero-mdl1{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 25px;
+    gap: 20px;
+}
+
+.heroright1 img{
+    height: 228px;
+    weight: 303px;
+    border-radius: 48px;
+}
+
+.tbh{
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 23px;
+    color: #252432 ;
+}
+
+.thp{
+
+    font-size: 24px;
+    color: #252432;
+    margin-bottom: 23px;
+
+
+}
+
+/* mbl2 */
+
+.lock1{
+    padding: 80px 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+    
+
+
+    
+}
+
+.mdh{
+    text-align: center;
+   margin-top: 50px ;
+   margin-bottom: 40px;
+   padding-top: 15px;
+   font-size: 38px;
+}
+
+.coutdown{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+}
+
+
+.bg5{
+
+    margin-left: 30px;
+    margin-right: 30px;
+    
+    background:#7c78f5;
+    border-radius: 10px;
+}
+
+
+.cnt{
+    color: #4E47FF;
+    font-size: 80px;
+    font-weight: bold;
+
+}
+
+.ttc{
+    color: #000000;
+    font-size: 20px;
+    
+}
 
 
 
@@ -55,6 +137,15 @@ nav{
     border-radius: 10px;
     padding: 12px 12px;
     margin-right: 200px;
+
+}
+.btn-primary1{
+     color:#FFFFFF ;
+      background-color:#4E47FF;
+      padding: 12px 12px;
+      border-radius: 10px;
+      border: none;
+
 
 }
 
